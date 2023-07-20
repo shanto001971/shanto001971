@@ -13,12 +13,12 @@
 1. #### Toy market Place
    Description: This project is implemented by Vite.js, Context Api, React-Router-Dom, DaisyUI,
 Firebase, Node.Js, Express.Js and the database used is MongoDB.
-   Demo: https://toy-market-palce.web.app
+  - Demo: https://toy-market-palce.web.app
 
 2. #### Chaf-Hat
    Description: This project is implemented by vite.js, Context, Bootstrap, Firebase, NodeJS, Express.JS
 and the database used is MongoDB.
-   Demo: https://make-chef.web.app
+  - Demo: https://make-chef.web.app
 
 🌱 Always Learning:
 I believe in continuous learning and keeping up with the ever-evolving web development ecosystem. Currently exploring JavaScript, NodeJS, Express.JS and React.js.
