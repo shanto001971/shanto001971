@@ -32,7 +32,7 @@ My hobbies are reading a book and Code editing.
 📫 Let's Connect:
 Feel free to reach out for collaboration, job opportunities, or just to say hello!
 - Email: rakibulislam.s1999s@gmail.com
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Rakibul islam/
+- LinkedIn: https://www.linkedin.com/in/rakibul-islam-a3982227b
 
 
 Skills: 
