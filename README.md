@@ -35,7 +35,10 @@ Email: rakibulislam.s1999s@gmail.com
 LinkedIn: https://www.linkedin.com/in/rakibul-islam-a3982227b
 
 
-Skills: - Expertise : HTML , CSS, ES6, Bootstrap, TailwindCSS, DaisyUI, React.JS, Vite.js, React-Router-Dom, React Context Api. Comfortable : Firebase, JavaScript, NodeJS, Express.JS, JSON WebTokens, MongoDB , CRUD. Familiar : Next.JS, TypeScript, Material, Stripe. Tools : VisualStudio Code, GitHub, GoogleChromeDeveloperTools, Figma, Netlify, Vercel, ImgBB.
+Skills: 
+- Expertise : HTML , CSS, ES6, Bootstrap, TailwindCSS, DaisyUI, React.JS, Vite.js, React-Router-Dom, React Context Api. --- Comfortable : Firebase, JavaScript, NodeJS, Express.JS, JSON WebTokens, MongoDB , CRUD. 
+- Familiar : Next.JS, TypeScript, Material, Stripe. 
+- Tools :  VisualStudio Code, GitHub, GoogleChromeDeveloperTools, Figma, Netlify, Vercel, ImgBB.
 
 
 
