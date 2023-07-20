@@ -42,6 +42,14 @@ Skills:
 
 
 
+   
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul islam)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakibul islam&show_icons=true&count_private=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rakibul islam)
+
+![Profile views](https://gpvc.arturio.dev/Rakibul islam)
 
 
