@@ -1,5 +1,5 @@
 ### Hi there 👋,I am Rakibul islam
-#### I am Web developer
+#### I am MERN Stack Web developer
 ![I am Web developer](https://media.licdn.com/dms/image/D4E16AQFeX60txOhBag/profile-displaybackgroundimage-shrink_350_1400/0/1687155392475?e=1695254400&v=beta&t=e0nL1wBqT0ULP5FOxSF8TTgoyT4w5czrSfcZ2Va9q6c)
 
 🚀 Welcome to my GitHub! I'm Rakibul islam shanto, a passionate MERN stack developer, enthusiastic about crafting robust and user-friendly web applications.
